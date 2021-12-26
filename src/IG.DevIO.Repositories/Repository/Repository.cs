@@ -13,7 +13,7 @@ namespace Repository
 
         public Repository(DevIODbContext db)
         {
-            db = db;
+            this.db = db;
             DbSet = db.Set<TEntity>();
         }
 

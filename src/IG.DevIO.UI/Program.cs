@@ -15,6 +15,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddDbContext<DevIODbContext>(options =>
     options.UseSqlServer(connectionString));
 
+builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 

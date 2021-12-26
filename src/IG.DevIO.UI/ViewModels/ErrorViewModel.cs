@@ -1,4 +1,4 @@
-namespace IG.DevIO.UI.Models
+namespace IG.DevIO.UI.ViewModels
 {
     public class ErrorViewModel
     {
