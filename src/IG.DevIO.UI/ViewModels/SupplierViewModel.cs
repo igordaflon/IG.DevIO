@@ -25,6 +25,6 @@ namespace IG.DevIO.UI.ViewModels
         [Display(Name = "Ativo?")]
         public bool IsActive { get; set; }
 
-        public IEnumerable<ProductViewModel> Products { get; set; }
+        //public IEnumerable<ProductViewModel> Products { get; set; }
     }
 }

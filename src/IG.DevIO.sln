@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IG.DevIO.UI", "IG.DevIO.UI\IG.DevIO.UI.csproj", "{34037B53-209F-41D9-9234-FC900C922F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IG.DevIO.UI", "IG.DevIO.UI\IG.DevIO.UI.csproj", "{34037B53-209F-41D9-9234-FC900C922F24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IG.DevIO.Services", "IG.DevIO.Services\IG.DevIO.Services.csproj", "{526B4FBE-4A95-4574-81B6-1FA8EBD6CE4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IG.DevIO.Services", "IG.DevIO.Services\IG.DevIO.Services.csproj", "{526B4FBE-4A95-4574-81B6-1FA8EBD6CE4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IG.DevIO.Repositories", "IG.DevIO.Repositories\IG.DevIO.Repositories.csproj", "{23D9106C-C235-4809-B6DA-43B824C4C528}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IG.DevIO.Repositories", "IG.DevIO.Repositories\IG.DevIO.Repositories.csproj", "{23D9106C-C235-4809-B6DA-43B824C4C528}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
